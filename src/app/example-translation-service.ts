@@ -27,6 +27,7 @@ export class ExampleTranslationService extends TranslationService {
             "Date" : "Date",
             "EditActivity" : "Edit Activity",
             "EditFriend" : "Edit Friend",
+			"AddFriend": "Add Friend",
             "EditLocation" : "Edit Location",
             "Friends" : "Friends",
             "Friend" : "Friend",
